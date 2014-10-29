@@ -267,7 +267,7 @@ public class Prototipo {
                     MultaPeriodo = MultaPeriodo + Multas[i];
 
                     }
-
+                    
                 }else{
 
                     System.out.println("Felicitaciones, su reporte se encuentra en orden.");
